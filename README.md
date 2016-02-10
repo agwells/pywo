@@ -11,7 +11,7 @@ PyWO allows you to easily organize windows on the desktop using keyboard shortcu
   * Switch windows' positions
   * Highly customizable
 
-Watch [PyWO in action](PywoInAction.md)
+Watch [PyWO in action](https://github.com/agwells/pywo/wiki/PywoInAction.md)
 
 ## Requirements ##
  * Python 2.5 or higher
@@ -54,7 +54,7 @@ Development version works OK with GNOME 3 (Mutter)
 ## Usage ##
 Just run `./pywo.py`
 
-Create `~/.pyworc` file to configure PyWO. Read [PyWO Configuration](PywoConfiguration.md) for reference. Defaults can be found in `pyworc` file. You can choose one of the predefined grid layouts: 2x2, 3x2 (default), 3x3, or define your own.
+Create `~/.pyworc` file to configure PyWO. Read [PyWO Configuration](https://github.com/agwells/pywo/wiki/PywoConfiguration.md) for reference. Defaults can be found in `pyworc` file. You can choose one of the predefined grid layouts: 2x2, 3x2 (default), 3x3, or define your own.
 
 PyWO creates `/tmp/PyWO.log` file where all debugging informations are logged.
 
