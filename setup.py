@@ -12,7 +12,7 @@ setup(
     author="Wojciech 'KosciaK' Pietrzok",
     author_email='kosciak@kosciak.net',
     description='PyWO allows you to easily organize windows on the desktop using keyboard shortcuts.',
-    long_description=open('README').read(),
+    long_description=open('README.md').read(),
     url='http://code.google.com/p/pywo/',
     license='GPL v3',
     keywords='xlib tiling windows',
